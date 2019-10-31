@@ -1,6 +1,8 @@
 # lingdianqiudui
 零点球队website
 
+https://www.cnblogs.com/darkknightzh/p/8108640.html
+
 windows whoami
 import getpass
 print getpass.getuser()
