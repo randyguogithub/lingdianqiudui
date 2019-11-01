@@ -1,5 +1,7 @@
 # lingdianqiudui
 零点球队website
+Python如何生成windows可执行的exe文件
+https://segmentfault.com/a/1190000016087451?utm_source=tag-newest
 
 0. Test Dashboard
 https://dev.azure.com/pallets/click/_build?definitionId=6
