@@ -1,5 +1,9 @@
 # lingdianqiudui
 零点球队website
+
+0. Test Dashboard
+https://dev.azure.com/pallets/click/_build?definitionId=6
+
 1. Global variable accross files
 https://www.cnblogs.com/darkknightzh/p/8108640.html
 
