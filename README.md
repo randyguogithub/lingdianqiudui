@@ -1,4 +1,11 @@
 # lingdianqiudui
+
+https://pydata-google-auth.readthedocs.io/en/latest/cli.html#saving-user-credentials-with-login
+Save credentials with Cloud Platform scope to ~/keys/google-credentials.json.
+
+
+
+
 零点球队website
 
 https://github.com/hrf1159/jumper
